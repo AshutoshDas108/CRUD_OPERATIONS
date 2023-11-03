@@ -1,0 +1,8 @@
+All API requests i.e. 
+
+      get
+      post
+      patch,
+      delete 
+         
+are tested using Postman
